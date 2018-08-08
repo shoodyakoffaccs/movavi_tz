@@ -1,0 +1,202 @@
+@media only screen and (max-width: 1140px) {
+
+    .button_wrap {
+        text-align: center;
+    }
+
+    .button_light_blue, .button_dark_blue {
+        max-width: 450px;
+        width: 100%;
+    }
+
+    .col-12 .button_wrap .text_768::before {
+        bottom: 24px;
+        left: 70px;
+    }
+
+    h1, h2 {
+        font-size: 28px;
+    }
+
+    .top_list {
+        font-size: 18px;
+    }
+
+    .p_22 {
+        font-size: 20px;
+        margin-top: 15px;
+    }
+
+    .cont_timeline .wrap_timeline .h2_movavi h2 {
+        padding-right: 125px;
+    }
+
+    .button_wrap .button_dark_blue, .button_wrap .button_light_blue {
+        margin: 20px 30px;
+    }
+}
+
+@media only screen and (max-width: 1139px) {
+
+    .button_wrap .text_more_768 {
+        display: none;
+    }
+
+    .sec_product_pic_bg .hidden {
+        display: none;
+    }
+
+    .sec_product_pic_bg .hidden_1140 {
+        display: block;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .timeline_item .tabs .tab:last-child {
+        margin-top: 10px;
+        margin-left: 0;
+    }
+
+    h3 {
+        font-size: 24px;
+        margin-bottom: 10px;
+        margin-left: 10px;
+        margin-top: 10px;
+    }
+
+    .timeline_item .tabs .tab:first-child, .timeline_item .tabs .tab:last-child {
+        border-radius: 5px 5px 5px 5px;
+    }
+
+    .useful_cont_wrap .col-12 {
+        text-align: center;
+    }
+
+    .pic_wrap {
+        margin-bottom: 20px;
+    }
+
+    .wrap_grey_butt a {
+        text-align: left;
+        padding-left: 20px;
+    }
+
+    .quest_w {
+        text-align: center;
+    }
+
+    .cont_timeline .wrap_timeline .h2_movavi h2 {
+        text-align: center;
+        padding: 0;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+
+    header .pic_wrap {
+        display: none;
+    }
+
+    .container {
+        padding: 0 0;
+    }
+
+    .col-12 {
+        padding: 7px;
+    }
+
+    .button_wrap {
+        margin: 40px 0 0 0;
+    }
+
+    .cont_timeline .wrap_timeline h2 {
+        margin: 10px 0 20px 0;
+    }
+
+    h1, h2 {
+        font-size: 25px;
+        margin-bottom: 20px;
+    }
+
+    .cont_timeline .wrap_timeline .row .timeline_item::before, .sec_white .cont_timeline .wrap_timeline .row .timeline_item::before {
+        content: '';
+        width: 0;
+    }
+
+    body {
+        font-size: 16px;
+    }
+
+}
+
+@media only screen and (max-width: 576px) {
+
+    .button_wrap .button_light_blue, .button_wrap .button_dark_blue {
+
+    }
+
+    .sec_white .cont_timeline .wrap_timeline .row .timeline_item {
+        padding-bottom: 0;
+    }
+
+    .top_pic_wrap img {
+        display: none;
+    }
+
+    .button_wrap .button_dark_blue, .button_wrap .button_light_blue {
+        margin: 10px 0px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+
+    .sec_grey .useful_cont_wrap .wgb_2 .button_grey_sec, .sec_grey .useful_cont_wrap .wgb_3 .button_grey_sec {
+        height: 100px;
+    }
+
+    .tab_item .timeline .timeline_item .timeline_tab .tabs .arrow_up_1::before {
+        left: 22px;
+    }
+
+    .tab_item .timeline .timeline_item .timeline_tab .tabs .arrow_up {
+        font-size: 15px;
+    }
+
+    .tab_item .timeline .timeline_item .timeline_tab .tabs .arrow_up_2::before {
+        left: 45px;
+    }
+
+}
+
+@media only screen and (max-width: 380px) {
+
+    .sec_white .question_cont_wrap .wrap_grey_butt_2 .quest_butt, .sec_white .question_cont_wrap .wrap_grey_butt_1 .quest_butt {
+        padding: 70px 15px 50px 164px;
+    }
+
+    .sec_white .question_cont_wrap .wrap_grey_butt_2 .quest_butt::before, .sec_white .question_cont_wrap .wrap_grey_butt_1 .quest_butt::before {
+        left: 7px;
+    }
+}
+
+@media only screen and (min-width: 320px) {
+
+}
+
+@media only screen and (min-width: 576px) {
+
+}
+
+@media only screen and (min-width: 768px) {
+
+}
+
+@media only screen and (min-width: 992px) {
+
+}
+
+@media only screen and (min-width: 1140px) {
+    .button_wrap .text_768 {
+        display: none;
+    }
+}
